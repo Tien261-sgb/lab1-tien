@@ -1,3 +1,4 @@
+//login
 function login(username, password) {
     // Kiểm tra dữ liệu rỗng
     if (!username || !password) {
